@@ -1,0 +1,26 @@
+{
+  "name": "<$= _.slugify(appname) $>",
+  "version": "<$= version $>",
+  "dependencies": {
+      "vue": "1.0.28",
+      "vue-router": "0.7.13",
+      "vue-swipe": "0.2.5",
+      "striptags": "2.1.2",
+      "fastclick": "1.0.6",
+      "collect": "1.0.0",
+      "socket.io": "1.4.5",
+      "promise": "1.0.0",
+      "platform":"1.0.0",
+      "http":"2.1.0",
+      "common-util": "1.0.0",
+      "common-service": "1.0.0",
+      "sdk": "1.0.2",
+      "share": "1.0.2",
+      "cache":"2.1.0",
+      "store":"1.0.0",
+      "toast": "1.0.0",
+      "sdk-alipay": "1.0.0",
+      "sdk-wechat": "1.1.0",
+      "sdk-weibo": "1.0.0"
+  }
+}

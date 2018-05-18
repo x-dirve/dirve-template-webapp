@@ -1,0 +1,18 @@
+{
+    "routeMobile":"/mobile/1.0.0"
+    ,"indexPageCacheTime":1800000
+    ,"staticResourceCacheTime":10000
+    ,"304":false
+    ,"workers":7
+    ,"escapeTime":10000
+    ,"socketLog": false
+    ,"cron":{}
+    ,"wxSdk": "http://res.wx.qq.com/open/js/jweixin-1.0.0.js"
+    ,"wbSdk": "http://tjs.sjs.sinajs.cn/open/thirdpart/js/jsapi/mobile.js"
+    ,"alipaySdk":"https://a.alipayobjects.com/g/component/antbridge/1.1.4/antbridge.min.js"
+    ,"injection":["debug","protocol"]
+    ,"protocol":"http"
+    ,"debug":false
+    ,"static_maxage":1800000
+    ,"entCacheNum":1000
+}
